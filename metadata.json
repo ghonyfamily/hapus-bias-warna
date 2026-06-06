@@ -1,0 +1,6 @@
+{
+  "name": "Remove Color Cast",
+  "description": "Aplikasi web untuk menghilangkan bias warna (color cast) pada gambar menggunakan metode Eyedropper, White Patch, dan Auto Gray-World dengan preview komparasi interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
